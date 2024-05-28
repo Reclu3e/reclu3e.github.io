@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example</title>
+  <id>https://blog.reclu3e.me</id>
+  <updated>2024-05-28T14:37:47+08:00</updated>
+  <link href="https://blog.reclu3e.me"></link>
+  <entry>
+    <title>Google Flank Github Actions 攻击</title>
+    <updated>2024-05-26T00:00:00Z</updated>
+    <id>tag:blog.reclu3e.me,2024-05-26:/</id>
+    <link href="https://blog.reclu3e.me/#/page/Google%20Flank%20Github%20Actions%20%E6%94%BB%E5%87%BB" rel="alternate"></link>
+  </entry>
+</feed>
